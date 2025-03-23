@@ -22,11 +22,10 @@ repository               : "https://mohammed-akour.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_20200311_115547.jpg"
+  avatar           : "IMG_20200311_115547.jpg"
   name             : "Prof. Akour"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineering Department Chair"
-
   employer         : "Prince Sultan university"
   uri              : "https://www.psu.edu.sa/en"
   email            : "makour@psu.edu.sa" 
